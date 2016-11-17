@@ -1,0 +1,11 @@
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.GetCheapest.resources
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.csproj.GenerateResource.Cache
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.Properties.Resources.resources
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DianpingTool.exe
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Debug\DianpingTool.pdb
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.exe
+d:\users\administrator\documents\visual studio 2010\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.pdb
+D:\Users\Administrator\Documents\Visual Studio 2010\Projects\DianpingTool\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.exe
+D:\Users\Administrator\Documents\Visual Studio 2010\Projects\DianpingTool\WindowsFormsApplication4\obj\x86\Debug\DianpingTool.pdb
+D:\users\administrator\documents\visual studio 2010\Projects\DianpingTool\DianpingTool\obj\x86\Debug\DianpingTool.exe
+D:\users\administrator\documents\visual studio 2010\Projects\DianpingTool\DianpingTool\obj\x86\Debug\DianpingTool.pdb
