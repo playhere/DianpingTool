@@ -15,7 +15,7 @@ namespace DianpingTool
             foreach (var item in PriceCombination)
             {
                 var groupFee = (from t in item select t).Sum();
-                for (var i = Coupons.Count-1; i > 0; i--)
+                for (var i = Coupons.Count-1; i >= 0; i--)
                 {
                     if (groupFee >= Coupons[i].Key)
                     {
